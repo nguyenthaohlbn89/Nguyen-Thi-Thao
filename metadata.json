@@ -1,0 +1,6 @@
+{
+  "name": "6A7 TIỀN AN 2026-2027",
+  "description": "GVCN 360 PRO - Trợ lý số toàn diện cho giáo viên chủ nhiệm: Quản lý học sinh, điểm danh, thi đua, vòng quay gọi tên, trực nhật, báo cáo tổng kết",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
